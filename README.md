@@ -23,7 +23,11 @@ Sensational headlines are headlines that capture people's attention and generate
 
 ## Auto-tuned Reinforcement Learning:
 <p align="center">
+<<<<<<< HEAD
 <img src="plot/arl.png" width="50%" />
+=======
+<img src="plot/arl.png" width="100%" />
+>>>>>>> 2218b160f19d32efbcd790bdfc71e6eca0f74abc
 </p>
 The loss function of Auto-tuned Reinforcement Learning is a weighted sum of RL and MLE,
 where the weight is decided by the sensationalism scorer or any other reward functions.
@@ -93,4 +97,8 @@ Pointer-Gen+ARL-SEN
 ```console
 ❱❱❱ python sensation_save.py -rl_model_path save/Rl/Pointer_Gen_ARL_SEN/  -sensation_scorer_path save/sensation/512_0.9579935073852539/ -use_s_score 0 -thd 0.0 -use_rl True
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 2218b160f19d32efbcd790bdfc71e6eca0f74abc

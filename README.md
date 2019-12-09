@@ -31,7 +31,7 @@ where the weight is decided by the sensationalism scorer or any other reward fun
 
 ## Sensationalization Strategies
 <p align="center">
-<img src="plot/results.png" width="100%" />
+<img src="plot/results.png" width="90%" />
 </p>
 Our model is able to generate sensational headlines using diverse sensationalization strategies. These strategies include, but are not limited to, creating a curiosity gap, asking questions, highlighting numbers, being emotional and emphasizing the user. 
 

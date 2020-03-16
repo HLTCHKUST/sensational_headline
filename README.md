@@ -47,6 +47,7 @@ You can also download the well trained [**model**](https://drive.google.com/open
 
 To train and run your model, you need [**datasets**](https://drive.google.com/open?id=1ufGjlp2yGQ7Z--scYVEkvlu3hm-ec3dD) and unzip to the project home directory
 
+We also use the pretrained Chinese embedding in from [**this website**](https://github.com/Embedding/Chinese-Word-Vectors) or you can directly download from [**here**](https://pan.baidu.com/s/10bhJpaXMCUK02nHvRAttqA)
 
 
 ## Experiment

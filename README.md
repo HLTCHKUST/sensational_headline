@@ -43,9 +43,9 @@ Check the packages needed or simply run the command
 ```
 
 ## Resources needed
-You can also download the well trained [**model**](https://drive.google.com/open?id=1ufGjlp2yGQ7Z--scYVEkvlu3hm-ec3dD) and unzip to the project home directory
+You can also download the well trained [**model**](https://drive.google.com/drive/folders/1rSM7EwkDRZjkTt9x0FK17-HMAq1rHnFe?usp=sharing) and unzip to the project home directory
 
-To train and run your model, you need [**datasets**](https://drive.google.com/open?id=1ufGjlp2yGQ7Z--scYVEkvlu3hm-ec3dD) and unzip to the project home directory
+To train and run your model, you need [**datasets**](https://drive.google.com/drive/folders/1rSM7EwkDRZjkTt9x0FK17-HMAq1rHnFe?usp=sharing) and unzip to the project home directory
 
 We also use the pretrained Chinese embedding in from [**this website**](https://github.com/Embedding/Chinese-Word-Vectors) or you can directly download from [**here**](https://pan.baidu.com/s/10bhJpaXMCUK02nHvRAttqA)
 
